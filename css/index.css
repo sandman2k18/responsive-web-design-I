@@ -84,7 +84,7 @@ nav div {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    margin: 10px 2%;
+    margin: 10px 0px;
     width: 70%;
     padding-top: 30px;
 }
